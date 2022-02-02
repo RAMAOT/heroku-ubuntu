@@ -1,5 +1,5 @@
 {
-  "name": "Ubuntu Desktop on Heroku",
+  "name": "Heroku Ubuntu",
   "description": "A Heroku install of Ubuntu 20.10 (Groovy Gorilla), with the XFCE desktop environment and VNC",
   "keywords": ["Ubuntu", "XFCE", "VNC", "Docker", "Heroku"],
   "env": {},
